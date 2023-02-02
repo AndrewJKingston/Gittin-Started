@@ -11,7 +11,7 @@
 <a href="https://www.imdb.com/title/tt0816692/" target="_blank">imdb.com</a> <br>
 <a href="https://www.rottentomatoes.com/m/interstellar_2014" target="_blank">Rotten Tomatoes</a>
 
-```
+```java
 class Interstellar
 {
     public static void main(String[] args)
